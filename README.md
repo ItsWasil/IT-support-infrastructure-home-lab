@@ -1,4 +1,3 @@
-# IT-support-infrastructure-home-lab
 # IT Support & Infrastructure Administration Home Lab
 
 A hands-on IT Support and Infrastructure Administration project built using **Windows Server 2025** in VMware Workstation.
